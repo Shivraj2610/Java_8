@@ -1,3 +1,4 @@
+package Lambda;
 
 interface Apple {
     public abstract int sum(int a, int b);
